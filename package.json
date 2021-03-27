@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "douban-top-250": "node ./src/doubanTop250"
+    "douban-top-250": "node ./src/doubanTop250",
+    "weibo-hot": "node ./src/weiboHot"
   },
   "keywords": [
     "node",
